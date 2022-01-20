@@ -2,10 +2,6 @@
   
 This repository is maintained by Ben Winjum for use in UCLA OARC's introductory training class on Version Control with Git.
 
-## Slides
-
-* The slides are available in the file "OARC Version Control with Git.pdf"
-
 ## Interacting with JupyterHub for class
 
 This is not required -- all you need for the class is Git, a shell, and a text editor, so interacting with JupyterHub is not strictly necessary.  However, if you will find it convenient and/or would like to mirror the class demos:
