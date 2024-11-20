@@ -1,4 +1,4 @@
-# Version Control with Git
+# Version Control with Git for Students!!!
   
 This repository is maintained by Ben Winjum for use in UCLA OARC's introductory training class on Version Control with Git.
 
