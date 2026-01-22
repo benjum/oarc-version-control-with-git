@@ -4,17 +4,17 @@ This repository is maintained by Ben Winjum for use in UCLA OARC's introductory 
 
 ## Slides
 
-* The slides are available in the file "OARC Version Control with Git.pdf"
+* The slides are available in the file "OARC-Version-Control-With-Git-Part1.pdf"
 
 ## Interacting with JupyterHub for class
 
-This is not required -- all you need for the class is Git, a shell, and a text editor, so interacting with JupyterHub is not strictly necessary.  However, if you will find it convenient and/or would like to mirror the class demos:
+This is not required -- all you need for the class is git, a shell, and a text editor, so interacting with JupyterHub is not strictly necessary.  However, if you will find it convenient and/or would like to mirror the class demos:
 
-* UCLA participants (multi-factor authentication required):
+* Workshop Hub (uses Google for authentication, which includes g.ucla.edu accounts):
 
-  * <a href="https://jupyter.idre.ucla.edu/">Go to IDRE's JupyterHub</a>
+  * <a href="https://ucla-oarc-workshop.nrp-nautilus.io/">Go to Workshop JupyterHub</a>
 
-* Non UCLA participants:
+* Backup:
   * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benjum/oarc-version-control-with-git/main)
 
 ## Interactive Git Viz Tool
