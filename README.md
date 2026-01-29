@@ -1,10 +1,12 @@
 # Version Control with Git
   
-This repository is maintained by Ben Winjum for use in UCLA OARC's introductory training class on Version Control with Git.
+This repository is maintained by Ben Winjum for use in UCLA OARC's introductory training classes on Version Control with Git.
 
 ## Slides
 
-* The slides are available in the file "OARC-Version-Control-With-Git-Part1.pdf"
+* The slides are available in the files:
+  * "OARC-Version-Control-With-Git-Part1.pdf"
+  * "OARC-Version-Control-With-Git-Part2.pdf"
 
 ## Interacting with JupyterHub for class
 
